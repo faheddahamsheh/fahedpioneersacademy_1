@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ClassLibrary1/Domains.csproj" />
+  <Project Path="infrastractures/infrastractures.csproj" />
+  <Project Path="level2application/level2application.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>
